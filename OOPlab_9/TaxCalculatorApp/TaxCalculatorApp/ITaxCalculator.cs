@@ -1,0 +1,4 @@
+﻿interface ITaxCalculator
+{
+    double CalculateTax();
+}

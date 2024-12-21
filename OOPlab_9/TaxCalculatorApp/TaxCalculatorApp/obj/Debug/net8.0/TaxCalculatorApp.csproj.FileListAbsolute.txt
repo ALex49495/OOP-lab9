@@ -1,0 +1,14 @@
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\bin\Debug\net8.0\Debug\net8.0\Debug\net8.0\TaxCalculatorApp.exe
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\bin\Debug\net8.0\Debug\net8.0\Debug\net8.0\TaxCalculatorApp.deps.json
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\bin\Debug\net8.0\Debug\net8.0\Debug\net8.0\TaxCalculatorApp.runtimeconfig.json
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\bin\Debug\net8.0\Debug\net8.0\Debug\net8.0\TaxCalculatorApp.dll
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\bin\Debug\net8.0\Debug\net8.0\Debug\net8.0\TaxCalculatorApp.pdb
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\obj\Debug\net8.0\TaxCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\obj\Debug\net8.0\TaxCalculatorApp.AssemblyInfoInputs.cache
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\obj\Debug\net8.0\TaxCalculatorApp.AssemblyInfo.cs
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\obj\Debug\net8.0\TaxCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\obj\Debug\net8.0\TaxCalculatorApp.dll
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\obj\Debug\net8.0\refint\TaxCalculatorApp.dll
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\obj\Debug\net8.0\TaxCalculatorApp.pdb
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\obj\Debug\net8.0\TaxCalculatorApp.genruntimeconfig.cache
+C:\Intel\OOPlab_9\TaxCalculatorApp\TaxCalculatorApp\obj\Debug\net8.0\ref\TaxCalculatorApp.dll
